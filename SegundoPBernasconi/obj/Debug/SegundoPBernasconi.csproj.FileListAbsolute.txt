@@ -1,0 +1,10 @@
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\bin\Debug\SegundoPBernasconi.exe.config
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\bin\Debug\SegundoPBernasconi.exe
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\bin\Debug\SegundoPBernasconi.pdb
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\obj\Debug\SegundoPBernasconi.csproj.AssemblyReference.cache
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\obj\Debug\SegundoPBernasconi.Form1.resources
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\obj\Debug\SegundoPBernasconi.Properties.Resources.resources
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\obj\Debug\SegundoPBernasconi.csproj.GenerateResource.cache
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\obj\Debug\SegundoPBernasconi.csproj.CoreCompileInputs.cache
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\obj\Debug\SegundoPBernasconi.exe
+C:\Users\luk-x\source\repos\SegundoPBernasconi\SegundoPBernasconi\obj\Debug\SegundoPBernasconi.pdb
